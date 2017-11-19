@@ -1,0 +1,21 @@
+D:\Visual Studio\Test 3\Test 3\bin\Debug\Test 3.exe.config
+D:\Visual Studio\Test 3\Test 3\bin\Debug\Test 3.exe
+D:\Visual Studio\Test 3\Test 3\bin\Debug\Test 3.pdb
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.Properties.Resources.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test 3.csproj.GenerateResource.Cache
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test 3.exe
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test 3.pdb
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.home.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.dateselect.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.views.resources
+D:\Visual Studio\Test 3\Test 3\bin\Debug\financially_users.mdf
+D:\Visual Studio\Test 3\Test 3\bin\Debug\financially_users_log.ldf
+D:\Visual Studio\Test 3\Test 3\bin\Debug\ImagedComboBox.pdb
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.dateselectpt.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.homept.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.viewspt.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.Login.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.Register.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.Loginpt.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test_3.Registerpt.resources
+D:\Visual Studio\Test 3\Test 3\obj\Debug\Test 3.csprojResolveAssemblyReference.cache

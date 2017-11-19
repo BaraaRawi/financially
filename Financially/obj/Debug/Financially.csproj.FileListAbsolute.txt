@@ -1,0 +1,17 @@
+D:\Visual Studio\Financially\Financially\bin\Debug\financially_users.mdf
+D:\Visual Studio\Financially\Financially\bin\Debug\financially_users_log.ldf
+D:\Visual Studio\Financially\Financially\bin\Debug\Financially.exe.config
+D:\Visual Studio\Financially\Financially\bin\Debug\Financially.exe
+D:\Visual Studio\Financially\Financially\bin\Debug\Financially.pdb
+D:\Visual Studio\Financially\Financially\bin\Debug\ImagedComboBox.pdb
+D:\Visual Studio\Financially\Financially\obj\Debug\Financially.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Financially\Financially\obj\Debug\Test_3.home.resources
+D:\Visual Studio\Financially\Financially\obj\Debug\Test_3.Login.resources
+D:\Visual Studio\Financially\Financially\obj\Debug\Test_3.Properties.Resources.resources
+D:\Visual Studio\Financially\Financially\obj\Debug\Test_3.dateselect.resources
+D:\Visual Studio\Financially\Financially\obj\Debug\Test_3.Register.resources
+D:\Visual Studio\Financially\Financially\obj\Debug\Test_3.views.resources
+D:\Visual Studio\Financially\Financially\obj\Debug\Financially.csproj.GenerateResource.Cache
+D:\Visual Studio\Financially\Financially\obj\Debug\Financially.exe
+D:\Visual Studio\Financially\Financially\obj\Debug\Financially.pdb
+D:\Visual Studio\Financially\Financially\obj\Debug\Financially.csproj.CoreCompileInputs.cache
